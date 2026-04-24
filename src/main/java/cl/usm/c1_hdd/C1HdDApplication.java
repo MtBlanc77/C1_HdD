@@ -1,13 +1,13 @@
-package cl.usm.certamen1_hdd;
+package cl.usm.c1_hdd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Certamen1HdDApplication {
+public class C1HdDApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Certamen1HdDApplication.class, args);
+        SpringApplication.run(C1HdDApplication.class, args);
     }
 
 }
